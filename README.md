@@ -1,0 +1,1 @@
+A simple mkdocs website to host the latest news about the Phagos x AWS Hackathon 2025.

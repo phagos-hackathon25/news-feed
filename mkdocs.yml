@@ -1,0 +1,4 @@
+site_name: Phagos hackathon 2025 - News and Timeline
+
+nav:
+  - Home: index.md
