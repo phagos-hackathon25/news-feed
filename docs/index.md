@@ -1,6 +1,6 @@
 # Latest News
 
-[**May 13th @ 19:00 CET**] We changed the rooms where some of the events will take place, and re-organized the schedule to give you more time to code! Make sure to check the updated schedule below.
+[**May 13th @ 18:30 CET**] We changed the rooms where some of the events will take place, and re-organized the schedule to give you more time to code! Make sure to check the updated schedule below.
 
 # Timeline of the event
 
@@ -26,7 +26,7 @@
 | 18:30 - 18:45 | **Prizes ceremony** | _Salle Conference_ & online |
 | 18:45 - 20:00 | Cocktail | Common cafeteria and terrace |
 
-The in-person event will take place at the DocCity Suresnes building, located at 5 Rue Gardenat Lapostol, 92150 Suresnes, France.
+The in-person event will take place at the DocCity Suresnes building, located at 5 Rue Gardenat Lapostol, 92150 Suresnes, France.  
 The "Common cafeteria and terrace", the "_Salle Conference_" and the "_Salle Atelier_" are located on the 5th floor.
 
 Links for the online events in bold will be shared on the general Discord channel.
